@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe nhỏ ở xa bên phải,added,Thấy rõ thân xe theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,hai xe đi sát nhau,edited,Box bị gộp chung nên phải kéo tách lại
+1,frame_0182.jpg,bóng đen dưới đất,deleted,Không phải là xe ô tô
